@@ -1,2 +1,1 @@
-#RasyidClass01Night
 Indonesian Version
